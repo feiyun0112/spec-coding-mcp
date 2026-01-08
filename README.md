@@ -1,4 +1,4 @@
- **[简体中文](./README_zh-cn.md)**
+ **[简体中文](https://github.com/feiyun0112/spec-coding-mcp/blob/main/README_zh-cn.md)**
  
 # Spec Coding MCP Server
 
